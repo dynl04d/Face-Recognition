@@ -1,7 +1,4 @@
 {
     "accessDetail": [
-        {"username": "kris", "emailid": "kris@abc.ca", "cropped": true},
-        {"username": "s1", "emailid": "s1@abc.ca", "cropped": true},
-        {"username": "test", "emailid": "test", "cropped": true}
     ]
 }
