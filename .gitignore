@@ -1,0 +1,7 @@
+#Python/PyCharm/intellij
+.idea/
+*.pyc
+
+# Image Files
+res/key_faces/kris/
+
